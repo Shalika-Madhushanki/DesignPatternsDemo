@@ -1,4 +1,4 @@
-Singleton.iml
+*.iml
 .*idea
 .*DS_Store
 out/
